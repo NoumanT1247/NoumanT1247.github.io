@@ -20,19 +20,29 @@ Use popular tools such as Plotly, Mermaid, and data frames.
 
 HuggingFace Model
 
-{{< embed platform="huggingface" resource="google/embeddinggemma-300m" type="model" >}}
+[View HuggingFace Model: google/embeddinggemma-300m](https://huggingface.co/google/embeddinggemma-300m)
+
+<iframe src="https://huggingface.co/google/embeddinggemma-300m" width="100%" height="400" frameborder="0"></iframe>
+
 
 HuggingFace Dataset
 
-{{< embed platform="huggingface" resource="fka/awesome-chatgpt-prompts" type="dataset" >}}
+[View HuggingFace Dataset: fka/awesome-chatgpt-prompts](https://huggingface.co/datasets/fka/awesome-chatgpt-prompts)
+
+<iframe src="https://huggingface.co/datasets/fka/awesome-chatgpt-prompts" width="100%" height="400" frameborder="0"></iframe>
+
 
 GitHub Repository
 
-{{< embed platform="github" resource="HugoBlox/hugo-blox-builder" type="repo" >}}
+[View GitHub Repo: HugoBlox/hugo-blox-builder](https://github.com/HugoBlox/hugo-blox-builder)
+
+<iframe src="https://github.com/HugoBlox/hugo-blox-builder" width="100%" height="400" frameborder="0"></iframe>
 
 Custom embed with manual data
 
-{{< embed url="https://example.com" title="My Custom Resource" description="A great resource for learning" >}}
+[A great resource for learning](https://example.com)
+
+<iframe src="https://example.com" width="100%" height="400" frameborder="0"></iframe>
 
 ### Custom Images
 
