@@ -96,7 +96,7 @@ work:
   - position: Powertrain Engineer
     company_name: Team Wild Wheelers – NUST
     date_start: 2023-05-01
-    date_end: ongoing
+    date_end:  ""
     summary: |
       Designed and manufactured an **off-road buggy** for the Piston Cup competition.  
       • Focused on optimizing **powertrain and suspension systems** for rugged terrain performance.  
