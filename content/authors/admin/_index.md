@@ -25,7 +25,7 @@ role: Mechanical Engineer | UAVs, Robotics & Automation
 # Organizations/Affiliations to display in Biography block
 organizations:
   - name: NUST – School of Mechanical and Manufacturing Engineering (SMME)
-    url: [https://smme.nust.edu.pk/](https://smme.nust.edu.pk/)
+    url: https://smme.nust.edu.pk/
 
 # Social network links
 profiles:
@@ -33,14 +33,14 @@ profiles:
     url: 'mailto:noumantahir.147@gmail.com'
     label: E-mail Me
   - icon: brands/github
-    url: [https://github.com/NoumanT1247](https://github.com/NoumanT1247)
+    url: https://github.com/NoumanT1247
   - icon: brands/linkedin
-    url: [https://www.linkedin.com/in/nouman-tahir-7ba055282/](https://www.linkedin.com/in/nouman-tahir-7ba055282/)
+    url: https://www.linkedin.com/in/nouman-tahir-7ba055282/
 # - icon: academicons/google-scholar
 #    url: https://scholar.google.com/citations?user=YOUR-ID
 
   - icon: academicons/orcid
-    url: [https://orcid.org/YOUR-ORCID](https://orcid.org/0009-0007-8901-6816)
+    url: https://orcid.org/0009-0007-8901-6816
 
 interests:
   - UAV
