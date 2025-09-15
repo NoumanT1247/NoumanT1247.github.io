@@ -63,7 +63,7 @@ work:
   - position: Researcher
     company_name: SMME, NUST
     date_start: 2023-06-01
-    date_end: ongoing
+    date_end: ""
     summary: |
       Conducting research in **UAV swarm control, autonomous navigation, and robotic automation**.  
       • Current project on **Drone Path Planning** in collaboration with Dr. Samer Hanoun (Deakin University, Australia).  
@@ -74,7 +74,7 @@ work:
   - position: Team Lead
     company_name: Team Vitesse – NUST UAV Team
     date_start: 2024-10-01
-    date_end: ongoing
+    date_end: ""
     summary: |
       Leading **Team Vitesse (NUST UAV Team)** in multiple international and national UAV competitions:  
       • **International UAV Competition – Teknofest 2025 (Türkiye)** – Qualified for the finals.  
