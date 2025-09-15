@@ -114,7 +114,7 @@ awards:
 ---
 
 Muhammad Nouman Tahir is a **Mechanical Engineer** specializing in **UAVs, Robotics, and Automation**.  
-He is the **Team Lead of UAS'24**, representing NUST in the finals of the **Teknofest 2025 UAV Competition** in Türkiye.  
+He is the **Team Lead of Team Vitesse**, representing NUST in the finals of the **Teknofest 2025 UAV Competition** in Türkiye.  
 
 His **Final Year Project** focused on the design and development of an **Autonomous Delivery Robot**, integrating GPS-based navigation, computer vision, and a curb-climbing mechanism for reliable last-mile delivery. Nouman’s research interests include UAV swarm control, computer vision, and robotic automation, with multiple publications in progress.  
 
