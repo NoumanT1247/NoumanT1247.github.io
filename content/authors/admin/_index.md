@@ -25,26 +25,28 @@ role: Mechanical Engineer | UAVs, Robotics & Automation
 # Organizations/Affiliations to display in Biography block
 organizations:
   - name: NUST – School of Mechanical and Manufacturing Engineering (SMME)
-    url: https://smme.nust.edu.pk/
+    url: [https://smme.nust.edu.pk/](https://smme.nust.edu.pk/)
 
 # Social network links
 profiles:
   - icon: at-symbol
-    url: 'mailto:mnouman.ug21smme@student.nust.edu.pk'
+    url: 'mailto:noumantahir.147@gmail.com'
     label: E-mail Me
   - icon: brands/github
-    url: https://github.com/NoumanT1247
+    url: [https://github.com/NoumanT1247](https://github.com/NoumanT1247)
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/nouman-tahir-7ba055282/
-  - icon: academicons/google-scholar
+    url: [https://www.linkedin.com/in/nouman-tahir-7ba055282/](https://www.linkedin.com/in/nouman-tahir-7ba055282/)
+ <!-- - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=YOUR-ID
+    -->
   - icon: academicons/orcid
-    url: https://orcid.org/YOUR-ORCID
+    url: [https://orcid.org/YOUR-ORCID](https://orcid.org/0009-0007-8901-6816)
 
 interests:
-  - UAV Swarm Control
+  - UAV
   - Robotics & Automation
   - Autonomous Vehicles
+  - Swarm Robotics
   - Computer Vision
   - Deep Learning for Robotics
 
@@ -59,12 +61,16 @@ education:
 
 work:
   - position: Team Lead
-    company_name: UAS'24 – NUST UAV Team
-    date_start: 2024-01-01
-    date_end: 2025-09-01
+    company_name: Team Vitesse – NUST UAV Team
+    date_start: 2024-10-01
+    date_end: ongoing
     summary: |
-      Leading NUST’s UAV team to the finals of the **International UAV Competition (Teknofest 2025)**.  
-      Responsible for system integration, flight testing, and autonomous UAV research.
+      Leading **Team Vitesse (NUST UAV Team)** in multiple international and national UAV competitions:  
+      • **International UAV Competition – Teknofest 2025 (Türkiye)** – Qualified for the finals.  
+      • **IMechE UAS Challenge Pakistan 2024** – Developed and automated an autonomous quadcopter for blood sample delivery missions.  
+      • **National Design, Build & Fly Competition (NDBFC 2024, GIKI)** – Designed and manufactured a fixed-wing UAV for manuevering and payload drop missions.  
+
+      Responsibilities include system integration, flight testing, UAV design, and automation research.
 
 skills:
   - name: Technical Skills
@@ -94,17 +100,17 @@ languages:
 
 awards:
   - title: Rector’s High Achievers Gold Medal (2024)
-    date: '2024-06-01'
+    date: '2025-05-06'
     awarder: NUST
     icon: hero/trophy
     summary: |
       Awarded Gold Medal by Rector NUST for representing NUST at **Teknofest Türkiye**.
-  - title: Finalist – UAV Competition (Teknofest 2025, Türkiye)
-    date: '2025-09-01'
+  - title: Finalist – UAV Competition (Teknofest 2024, Türkiye)
+    date: '2024-09-21'
     awarder: Teknofest
     icon: hero/trophy
     summary: |
-      Led NUST UAV team to the finals of **Teknofest 2025** in Türkiye.
+      Led NUST UAV team to the finals of **Teknofest 2024** in Türkiye.
   - title: Research Publications (in progress)
     date: '2025-06-01'
     awarder: Academia
@@ -114,7 +120,7 @@ awards:
 ---
 
 Muhammad Nouman Tahir is a **Mechanical Engineer** specializing in **UAVs, Robotics, and Automation**.  
-He is the **Team Lead of Team Vitesse**, representing NUST in the finals of the **Teknofest 2025 UAV Competition** in Türkiye.  
+He is the **Team Lead of Team Vitesse**, representing NUST in the finals of the **Teknofest 2024 & 2025 UAV Competition** in Türkiye.  
 
 His **Final Year Project** focused on the design and development of an **Autonomous Delivery Robot**, integrating GPS-based navigation, computer vision, and a curb-climbing mechanism for reliable last-mile delivery. Nouman’s research interests include UAV swarm control, computer vision, and robotic automation, with multiple publications in progress.  
 
