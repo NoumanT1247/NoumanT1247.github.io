@@ -60,6 +60,17 @@ education:
       Team Lead for **UAS'24**, representing NUST at **Teknofest 2025** in Türkiye.
 
 work:
+  - position: Researcher
+    company_name: SMME, NUST
+    date_start: 2023-06-01
+    date_end: ongoing
+    summary: |
+      Conducting research in **UAV swarm control, autonomous navigation, and robotic automation**.  
+      • Current project on **Drone Path Planning** in collaboration with Dr. Samer Hanoun (Deakin University, Australia).  
+      • Worked on **Deep Learning-based UAV Swarm Hand Trajectory Mirroring** using OpenCV, MediaPipe, and YOLO.  
+      • Designed autonomous drone systems including gesture-controlled drones and face-follow drones.  
+      • Multiple research publications in progress.
+    
   - position: Team Lead
     company_name: Team Vitesse – NUST UAV Team
     date_start: 2024-10-01
@@ -72,25 +83,74 @@ work:
 
       Responsibilities include system integration, flight testing, UAV design, and automation research.
 
+  - position: Automation Engineer
+    company_name: Team Vitesse – UAV Automation
+    date_start: 2024-07-01
+    date_end: 2024-10-01
+    summary: |
+      Served as **Automation Engineer** for Teknofest 2024 UAV Competition in Kahramanmaraş, Türkiye.  
+      • Developed an autonomous quadcopter capable of **target UAV detection and interception** using a NetGun.  
+      • Built UAV automation systems with **pymavlink + Jetson Nano + OAK-D camera** for computer vision and depth estimation.  
+      • Contributed to the team that became the **only Pakistani finalist** at Teknofest 2024.
+
+  - position: Powertrain Engineer
+    company_name: Team Wild Wheelers – NUST
+    date_start: 2023-05-01
+    date_end: ongoing
+    summary: |
+      Designed and manufactured an **off-road buggy** for the Piston Cup competition.  
+      • Focused on optimizing **powertrain and suspension systems** for rugged terrain performance.  
+      • Competed in **Piston Cup SMME 2023 & 2024**, achieving:  
+        – **2nd Runner-up (2023)**  
+        – **Best Maneuverability Award (2023 & 2024)**
+
+  - position: Research Intern
+    company_name: Aerial Robotics Lab – SINES, NUST
+    date_start: 2023-06-01
+    date_end: 2023-08-31
+    summary: |
+      Worked on UAV automation and control projects.  
+      • Developed UAV swarm mirroring system using computer vision.  
+      • Built controllers for drone swarms and gesture-based drone navigation.  
+      • Designed autonomous vision-based drones for hand and face tracking.
+    
 skills:
-  - name: Technical Skills
+  - name: Programming & AI
     items:
-      - name: Python, PyTorch, OpenCV
+      - name: Python, C, C++, MATLAB
         percent: 90
-      - name: ROS 2, PX4, Gazebo, Webots
+      - name: PyTorch, Deep Learning, Computer Vision (OpenCV, MediaPipe, YOLO)
         percent: 85
-      - name: SolidWorks, ANSYS, COMSOL
+      - name: Machine Learning for Robotics
+        percent: 80
+
+  - name: Robotics & Automation
+    items:
+      - name: ROS 2, PX4, MAVLink, Gazebo, Webots
         percent: 90
-      - name: UAV Design & Control
+      - name: UAV Swarm Control & Autonomous Navigation
         percent: 95
+      - name: Embedded Systems (Jetson Nano, Raspberry Pi, Arduino, ESP32)
+        percent: 85
+
+  - name: Mechanical Design & Simulation
+    items:
+      - name: SolidWorks, AutoCAD
+        percent: 90
+      - name: ANSYS Fluent, COMSOL Multiphysics
+        percent: 85
+      - name: Mechatronic System Integration
+        percent: 80
+
   - name: Interests & Activities
     items:
-      - name: UAV Competitions
-        percent: 90
-      - name: Robotics Prototyping
+      - name: UAV Competitions & Flight Testing
+        percent: 95
+      - name: Robotics Prototyping & Hackathons
         percent: 85
-      - name: Research Writing
-        percent: 75
+      - name: Research Writing & Publications
+        percent: 80
+
 
 languages:
   - name: English
