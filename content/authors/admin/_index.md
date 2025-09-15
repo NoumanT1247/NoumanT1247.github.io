@@ -36,9 +36,9 @@ profiles:
     url: [https://github.com/NoumanT1247](https://github.com/NoumanT1247)
   - icon: brands/linkedin
     url: [https://www.linkedin.com/in/nouman-tahir-7ba055282/](https://www.linkedin.com/in/nouman-tahir-7ba055282/)
- <!-- - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=YOUR-ID
-    -->
+# - icon: academicons/google-scholar
+#    url: https://scholar.google.com/citations?user=YOUR-ID
+
   - icon: academicons/orcid
     url: [https://orcid.org/YOUR-ORCID](https://orcid.org/0009-0007-8901-6816)
 
